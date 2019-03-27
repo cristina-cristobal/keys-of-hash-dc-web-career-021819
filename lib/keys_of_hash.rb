@@ -6,7 +6,7 @@ class Hash
           if arg == value
             matches << key
           end
-        end
+        end 
       end
       matches
     end
